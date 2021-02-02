@@ -1,5 +1,5 @@
 body {
-    font-family: 'Times New Roman';
+    font-family: 'Times New Roman', Times, serif;
     background: #000000;
     color: #ffffff;
 }
@@ -47,11 +47,10 @@ div {
 }
 
 #yellow h2 {
-    color: black;
     text-shadow: 4px 4px 2px #c7e2c7;
 }
 
-#yellow p {
+#yellow p, #yellow h2 {
     color: black;
 }
 
@@ -60,7 +59,7 @@ div {
     text-align: left;
 }
 
-footer {
+footer p {
     text-align: center;
     padding-bottom: 10px;
     padding-right: 10px;
