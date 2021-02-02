@@ -1,5 +1,5 @@
 body {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', sans-serif;
     background: #000000;
     color: #ffffff;
 }
@@ -61,6 +61,5 @@ div {
 
 footer p {
     text-align: center;
-    padding-bottom: 10px;
-    padding-right: 10px;
+    padding: 0px 10px 10px 0px;
 }
